@@ -23,8 +23,8 @@ ValueError: List must contain nine numbers.
 4)Installation & Setup:-
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mean-var-std-calculator.git
-   cd mean-var-std-calculator
+   git clone https://github.com/rahulpawar7747/mean_var_std.git
+   cd mean_var_std
    ```
 2. Install dependencies:
    ```bash
